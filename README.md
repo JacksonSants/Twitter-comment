@@ -1,6 +1,4 @@
-# Maratona de Programação 3: Twitter
-
-Projeto desenvolvido na parte 3 da maratona de programação da Kenzie Academy Brasil.
+Programação: Twitter
 
 ## Ferramentas
 
@@ -9,7 +7,7 @@ Projeto desenvolvido na parte 3 da maratona de programação da Kenzie Academy B
 
 ## O Projeto
 
-### Estrutura de arquivos 
+### Estrutura de arquivos
 
 - README.md
 - index.html
